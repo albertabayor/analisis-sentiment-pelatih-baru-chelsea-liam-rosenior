@@ -135,7 +135,10 @@ ipython==8.14.0
 - [ ] Video presentation (MP4) - 3-5 menit
 
 ## 👥 Team
-- **Anggota Kelompok**: [Nama Anda]
+- **Anggota Kelompok**: 
+    - Moh. Dani Wahyudi (3012210028)
+    - Fide Master Achmad Wildan Muzaky (3012210702)
+    - Ade Nafil Firmansah (3012210002)
 
 ## 📅 Timeline (10-12 Days for Solo Execution)
 
