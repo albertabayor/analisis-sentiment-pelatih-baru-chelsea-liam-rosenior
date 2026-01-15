@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
+
+# Data files (except original dataset)
+data/processed/
+outputs/
+reports/draft/
+reports/final/
+
+# Keep only original raw data
+!data/raw/tweets.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+.lightning/
